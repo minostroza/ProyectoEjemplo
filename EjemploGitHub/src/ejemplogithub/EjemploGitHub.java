@@ -6,5 +6,8 @@ public class EjemploGitHub {
         // TODO code application logic here
         System.out.println("Hola");
     }
+    public void metodo(){
+        System.out.println("Hola");
+    }
     
 }
